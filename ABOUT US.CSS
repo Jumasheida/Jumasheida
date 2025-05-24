@@ -1,0 +1,71 @@
+body{
+    background-image:url();
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100%100%;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+};
+
+.Header{
+    position:fixed;
+    color: azure;
+    top: 40%; 
+    right: 50%;
+    transform: translate(50%,50%);
+    font-size:xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Center{
+    text-align:center;
+    margin: auto;
+    padding-bottom:5%;
+}
+
+.NavigationBar{
+    width: 400px;
+    float:inline-start;
+    height: 60px;
+}
+.a{
+    color:aqua;
+    color:blue;
+    font-family: Arial;
+    font-weight:100;
+    transition:3s ease-in-out;
+}
+
+.subheaders{
+    text-align:center;
+    padding-bottom: 10%;
+    margin-bottom: 10%;
+}
+.Mission{
+   margin-bottom: auto;
+   padding-bottom:8%;
+   text-align:center; 
+   font-size:x-large;
+   position:inherit;
+}
+.ul{
+    list-style: none;
+    padding-bottom: 40%;
+    float:right;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    
+}
+.ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 50px;
+    font-size: 14px;
+    display:flex
+}Vision{
+    font-size: larger;
+}
+.
